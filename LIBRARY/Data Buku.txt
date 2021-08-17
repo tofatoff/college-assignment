@@ -1,0 +1,3 @@
+Judul Buku		Penulis		Tahun Terbit		Kategori	No.Seri	
+Calculus	Thomas	2013	Textbook	1231234	
+Dilan	pidibaiq	1999	Novel	19981999	

@@ -1,0 +1,5 @@
+No. seri buku						
+anggota		Tanggal Pinjam		Tanggal Kembali		Denda	
+105218019	1231234	24	03	2018	
+105218019	19981999	24	03	2018	
+26042019	1231234	24	03	2018	

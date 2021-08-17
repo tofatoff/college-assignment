@@ -1,0 +1,8 @@
+Nomor Anggota	Nama	Jenis	
+105218001	Marissa	Mahasiswa	
+105218011	Sarah	Mahasiswa	
+105218015	Angga	Mahasiswa	
+105218019	Tofa	Mahasiswa	
+105218027	Guntur	Mahasiswa	
+105218041	Eqi	Mahasiswa	
+26042019	sample_dosen	Dosen	
